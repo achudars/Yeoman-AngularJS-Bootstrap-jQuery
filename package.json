@@ -1,0 +1,9 @@
+{
+  "author": "Alois Bělaška",
+  "name": "Test",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-contrib-less": "~0.3.2"
+  }
+}
